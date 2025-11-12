@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kothapuja" alt="kothapuja" /></a> </p>
 
-- 🔭 I’m currently working on **pharmacy assist**
+- 🔭 Previously developed **pharmacy assist**, a smart pharmacy management system. 
 
 - 🌱 I’m currently learning **html, css, javascript**
+- I’m currently working on AI and Web Development Projects
 
 - 👯 I’m looking to collaborate on **schedule planner**
 
